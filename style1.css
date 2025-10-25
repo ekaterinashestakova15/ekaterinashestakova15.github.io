@@ -1,0 +1,34 @@
+.text1{
+    color: blue;    
+    text-decoration: underline;
+}
+.text2{
+    background-color: white;
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: black;
+}
+.text3{
+    background-color: darkgreen;
+    color: white;
+    font-family: monospace;
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: black;
+    padding: 10px;
+}
+span{
+    border-color: black;
+    border: 2px solid;
+}
+.text4{
+        border-color: black;
+        border: 2px solid;
+        padding: 10px;
+}
+.text5{
+    border-color: black;
+        border: 2px solid;
+        padding: 10px;
+}
